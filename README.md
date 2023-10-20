@@ -34,6 +34,15 @@ I like to keep learning new languages by writing some hobby tools, e.g.
 - [zellij-pomodoro-plugin](https://github.com/tw4452852/zellij-pomodoro-plugin): A pomodoro clock [Zellij](https://github.com/zellij-org/zellij) plugin, written in [Rust](https://github.com/rust-lang/rust).
 - I'm using [Acme](https://en.wikipedia.org/wiki/Acme_(text_editor)) as my text editor, so some tools ([acme-dot](https://github.com/tw4452852/acme-dot), [acme-tag](https://github.com/tw4452852/acme-tag)) are written in [Go](https://github.com/golang/go).
 
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=tw4452852&count_private=true&show_icons=true&hide_rank=true">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tw4452852&count_private=true&show_icons=true&hide_rank=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tw4452852&layout=compact">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tw4452852&layout=compact" />
+</a>
+</div>
+
 <!--
 **tw4452852/tw4452852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
