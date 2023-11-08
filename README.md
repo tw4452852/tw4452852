@@ -32,7 +32,11 @@ I like to keep learning new languages by writing some hobby tools, e.g.
 - [Cream](https://github.com/tw4452852/cream): A [Caddy](https://github.com/caddyserver/caddy) API frontend written in [Rust](https://github.com/rust-lang/rust).
 - [Barn](https://github.com/tw4452852/barn): A Fuse filesystem written in [Zig](https://github.com/ziglang/zig).
 - [zellij-pomodoro-plugin](https://github.com/tw4452852/zellij-pomodoro-plugin): A pomodoro clock [Zellij](https://github.com/zellij-org/zellij) plugin, written in [Rust](https://github.com/rust-lang/rust).
-- I'm using [Acme](https://en.wikipedia.org/wiki/Acme_(text_editor)) as my text editor, so some tools ([acme-dot](https://github.com/tw4452852/acme-dot), [acme-tag](https://github.com/tw4452852/acme-tag)) are written in [Go](https://github.com/golang/go).
+- I'm using [Acme](https://en.wikipedia.org/wiki/Acme_(text_editor)) as my text editor, here are some plugins I implemented:
+  - [acme-dot](https://github.com/tw4452852/acme-dot): Getting current pointer position.
+  - [acme-tag](https://github.com/tw4452852/acme-tag)): Setting default tagline.
+  - [lsp](https://github.com/tw4452852/MyConfig/blob/master/MyRoot/bin/lsp): A LSP server proxy written in Elvish script.
+  - [als](https://github.com/tw4452852/MyConfig/blob/master/MyRoot/bin/als): A LSP client for ACME.
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=tw4452852&count_private=true&show_icons=true&hide_rank=true">
