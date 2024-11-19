@@ -7,7 +7,7 @@ I'm an OS enthusiast, mainly focus on the low-level stuff, like BSP, virtualizat
 - A member developer of [ACRN](https://projectacrn.org/) project.
 - A shared memory based NIC driver for inter-VM communication: [ivshmem-net](https://github.com/tw4452852/ivshmem-net).
 - A KVM frontend VMM: [zvm](https://github.com/tw4452852/zvm), you could think of it as the [Qemu](https://github.com/qemu/qemu) alternative.
-- A hypervisor implementation: [virtualizer](https://github.com/tw4452852/virtualizer).
+- A minimal hypervisor implementation: [virtualizer](https://github.com/tw4452852/virtualizer).
 
 #### OS
 
