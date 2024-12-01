@@ -7,12 +7,12 @@ I'm an OS enthusiast, mainly focus on the low-level stuff, like BSP, virtualizat
 - A member developer of [ACRN](https://projectacrn.org/) project.
 - A shared memory based NIC driver for inter-VM communication: [ivshmem-net](https://github.com/tw4452852/ivshmem-net).
 - A KVM frontend VMM: [zvm](https://github.com/tw4452852/zvm), you could think of it as the [Qemu](https://github.com/qemu/qemu) alternative.
-- A minimal hypervisor implementation: [virtualizer](https://github.com/tw4452852/virtualizer).
+- A minimal Type-1 hypervisor implementation: [virtualizer](https://github.com/tw4452852/virtualizer).
 
-#### OS
+#### Others
 
-- [tos](https://github.com/tw4452852/tos): A x86 based OS implemented from scratch.
 - [zbpf](https://github.com/tw4452852/zbpf): A framework to write [BPF](https://en.wikipedia.org/wiki/EBPF) with [Zig](https://github.com/ziglang/zig).
+- [tos](https://github.com/tw4452852/tos): A x86 based OS implemented from scratch.
 
 I'm also an active open-source contributor, you could find me in the following repositories:
 
