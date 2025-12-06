@@ -10,17 +10,8 @@ I'm an OS enthusiast, mainly focus on the low-level stuff, like BSP, virtualizat
 
 I'm also an active open-source contributor, you could find my traces on [these repositories](https://github-contrib-stats.vercel.app/tw4452852/contributed.svg).
 
-I'm using
-- [Acme](https://en.wikipedia.org/wiki/Acme_(text_editor)) as my GUI text editor, with [lsp](https://github.com/tw4452852/MyConfig/blob/master/MyRoot/bin/lsp) supported.
+I'm using:
+- [Acme](https://en.wikipedia.org/wiki/Acme_(text_editor)) as my GUI text editor, with [LSP](https://github.com/tw4452852/MyConfig/blob/master/MyRoot/bin/lsp) supported.
 - [Kakoune](https://kakoune.org/) as my TUI text editor.
-- [my own shell](https://github.com/tw4452852/MyConfig/blob/master/MyRoot/bin/shell).
-- [my own customized Linux distribution](https://github.com/tw4452852/void-mklive) based on [Void Linux](https://voidlinux.org/).
-
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=tw4452852&count_private=true&show_icons=true&hide_rank=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tw4452852&count_private=true&show_icons=true&hide_rank=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tw4452852&layout=compact">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tw4452852&layout=compact" />
-</a>
-</div>
+- [My own shell](https://github.com/tw4452852/MyConfig/blob/master/MyRoot/bin/shell).
+- [My own customized Linux distribution](https://github.com/tw4452852/void-mklive) based on [Void Linux](https://voidlinux.org/).
