@@ -8,7 +8,7 @@ I'm an OS enthusiast, mainly focus on the low-level stuff, like BSP, virtualizat
 - A minimal Type-1 hypervisor implementation: [virtualizer](https://github.com/tw4452852/virtualizer).
 - A framework to write [eBPF](https://en.wikipedia.org/wiki/EBPF) with [Zig](https://github.com/ziglang/zig): [zbpf](https://github.com/tw4452852/zbpf).
 
-I'm also an active open-source contributor, you could find my traces on [these repositories](https://github-contrib-stats.vercel.app/tw4452852/contributed.svg).
+I'm also an active open-source contributor, you could find my tracks in [these repositories](https://github-contrib-stats.vercel.app/tw4452852/contributed.svg).
 
 I'm using:
 - [Acme](https://en.wikipedia.org/wiki/Acme_(text_editor)) as my GUI text editor, with [LSP](https://github.com/tw4452852/MyConfig/blob/master/MyRoot/bin/lsp) supported.
